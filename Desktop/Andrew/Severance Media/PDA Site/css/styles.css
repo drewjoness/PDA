@@ -1,0 +1,37 @@
+body {
+  background-color: #081F3F
+}
+
+h1 {
+  color: white;
+}
+
+.promo {
+  /* height: 400px; */
+}
+
+.copy {
+  margin: 5px;
+  border: solid 3px #F4941C;
+  color: white;
+}
+
+.copy p {
+  font-size: 14px;
+}
+
+.nav h3 {
+  color: white;
+  float: right;
+}
+
+#register {
+  text-align: center;
+  font-family
+}
+
+@media screen and (min-width:1040px) {
+  .copy p {
+    font-size: 20px;
+  }
+}
